@@ -1,0 +1,66 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _2_17
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int Alternating = 0;
+            do
+            {
+                try
+                {
+                    int N = Value("N");
+                    Console.WriteLine(N);
+                    Console.WriteLine("Если хотите завершить работу нажмите 1:");
+                    Alternating = int.Parse(Console.ReadLine());
+                }
+                catch (FormatException)
+                {
+                    Alternating = 0;
+                }
+            } while (Alternating != 1);
+
+        }
+
+        static int Value(string V)
+        {
+            int N = 0;
+            bool Q = false;
+            do
+            {
+                try
+                {
+                    Console.Write("Введите {0}->Номер года: ", V);
+                    N = int.Parse(Console.ReadLine());
+                    if (N < -45)
+                    {
+                        Console.WriteLine("{0} --> Не может быть високосным т.к. календарь был разработан в 45г до н.э.", N);
+                        Q = false;
+                    }
+                    else Q = true;
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Не явл. числом!");
+                    Q = false;
+                }
+            } while (Q == false);
+            int amt;
+            N = Math.Abs(N);
+            if ((N % 4 == 0 && N % 100 != 0) || (N % 400 == 0))
+            {
+                amt = 366;
+            }
+            else amt = 365;
+            return amt;
+        }
+
+
+    }
+}
