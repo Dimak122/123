@@ -1,0 +1,30 @@
+E:\Programming\C#\Dima\II\Студент\task_1_3_17\task_1_3_17\bin\Debug\task_1_3_17.exe.config
+E:\Programming\C#\Dima\II\Студент\task_1_3_17\task_1_3_17\bin\Debug\task_1_3_17.exe
+E:\Programming\C#\Dima\II\Студент\task_1_3_17\task_1_3_17\bin\Debug\task_1_3_17.pdb
+E:\Programming\C#\Dima\II\Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.Form1.resources
+E:\Programming\C#\Dima\II\Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.Properties.Resources.resources
+E:\Programming\C#\Dima\II\Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.csproj.GenerateResource.Cache
+E:\Programming\C#\Dima\II\Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.exe
+E:\Programming\C#\Dima\II\Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.pdb
+E:\Programming\C#\Dima\II\Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.csprojResolveAssemblyReference.cache
+E:\Programming\C#\Dima\II\_Студент\task_1_3_17\task_1_3_17\bin\Debug\task_1_3_17.exe.config
+E:\Programming\C#\Dima\II\_Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.exe
+E:\Programming\C#\Dima\II\_Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.pdb
+E:\Programming\C#\Dima\II\_Студент\task_1_3_17\task_1_3_17\bin\Debug\task_1_3_17.exe
+E:\Programming\C#\Dima\II\_Студент\task_1_3_17\task_1_3_17\bin\Debug\task_1_3_17.pdb
+E:\Programming\C#\Dima\II\_Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.csprojResolveAssemblyReference.cache
+E:\Programming\C#\Dima\II\_Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.Form1.resources
+E:\Programming\C#\Dima\II\_Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.Properties.Resources.resources
+E:\Programming\C#\Dima\II\_Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.csproj.GenerateResource.Cache
+G:\задачи\задачи 1 атта\_Студент\task_1_3_17\task_1_3_17\bin\Debug\task_1_3_17.exe.config
+G:\задачи\задачи 1 атта\_Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.exe
+G:\задачи\задачи 1 атта\_Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.pdb
+G:\задачи\задачи 1 атта\_Студент\task_1_3_17\task_1_3_17\bin\Debug\task_1_3_17.exe
+G:\задачи\задачи 1 атта\_Студент\task_1_3_17\task_1_3_17\bin\Debug\task_1_3_17.pdb
+G:\задачи\задачи 1 атта\_Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.csprojResolveAssemblyReference.cache
+G:\задачи\задачи 1 атта\_Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.Form1.resources
+G:\задачи\задачи 1 атта\_Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.Properties.Resources.resources
+G:\задачи\задачи 1 атта\_Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.csproj.GenerateResource.Cache
+C:\Users\яблоко\Desktop\флешка\задачи\задачи 1 атта\_Студент\task_1_3_17\task_1_3_17\bin\Debug\task_1_3_17.exe.config
+C:\Users\яблоко\Desktop\флешка\задачи\задачи 1 атта\_Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.exe
+C:\Users\яблоко\Desktop\флешка\задачи\задачи 1 атта\_Студент\task_1_3_17\task_1_3_17\obj\Debug\task_1_3_17.pdb

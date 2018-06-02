@@ -1,0 +1,26 @@
+E:\Programming\C#\Dima\II\Рекурсия. Определитель матрицы\task__2_17\task__2_17\bin\Debug\task__2_17.exe.config
+E:\Programming\C#\Dima\II\Рекурсия. Определитель матрицы\task__2_17\task__2_17\bin\Debug\task__2_17.exe
+E:\Programming\C#\Dima\II\Рекурсия. Определитель матрицы\task__2_17\task__2_17\bin\Debug\task__2_17.pdb
+E:\Programming\C#\Dima\II\Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.Form1.resources
+E:\Programming\C#\Dima\II\Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.Properties.Resources.resources
+E:\Programming\C#\Dima\II\Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.csproj.GenerateResource.Cache
+E:\Programming\C#\Dima\II\Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.exe
+E:\Programming\C#\Dima\II\Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.pdb
+E:\Programming\C#\Dima\II\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\bin\Debug\task__2_17.exe.config
+E:\Programming\C#\Dima\II\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.exe
+E:\Programming\C#\Dima\II\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.pdb
+E:\Programming\C#\Dima\II\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\bin\Debug\task__2_17.exe
+E:\Programming\C#\Dima\II\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\bin\Debug\task__2_17.pdb
+E:\Programming\C#\Dima\II\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.csprojResolveAssemblyReference.cache
+E:\Programming\C#\Dima\II\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.Form1.resources
+E:\Programming\C#\Dima\II\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.Properties.Resources.resources
+E:\Programming\C#\Dima\II\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.csproj.GenerateResource.Cache
+G:\задачи\задачи 1 атта\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\bin\Debug\task__2_17.exe.config
+G:\задачи\задачи 1 атта\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.exe
+G:\задачи\задачи 1 атта\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.pdb
+G:\задачи\задачи 1 атта\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\bin\Debug\task__2_17.exe
+G:\задачи\задачи 1 атта\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\bin\Debug\task__2_17.pdb
+G:\задачи\задачи 1 атта\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.csprojResolveAssemblyReference.cache
+G:\задачи\задачи 1 атта\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.Form1.resources
+G:\задачи\задачи 1 атта\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.Properties.Resources.resources
+G:\задачи\задачи 1 атта\_Рекурсия. Определитель матрицы\task__2_17\task__2_17\obj\Debug\task__2_17.csproj.GenerateResource.Cache

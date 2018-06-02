@@ -1,0 +1,21 @@
+E:\Programming\C#\Dima\II\Сравнение двух деревьев\task_5_17\task_5_17\bin\Debug\task_5_17.exe.config
+E:\Programming\C#\Dima\II\Сравнение двух деревьев\task_5_17\task_5_17\bin\Debug\task_5_17.exe
+E:\Programming\C#\Dima\II\Сравнение двух деревьев\task_5_17\task_5_17\bin\Debug\task_5_17.pdb
+E:\Programming\C#\Dima\II\Сравнение двух деревьев\task_5_17\task_5_17\obj\Debug\task_5_17.Form1.resources
+E:\Programming\C#\Dima\II\Сравнение двух деревьев\task_5_17\task_5_17\obj\Debug\task_5_17.Properties.Resources.resources
+E:\Programming\C#\Dima\II\Сравнение двух деревьев\task_5_17\task_5_17\obj\Debug\task_5_17.csproj.GenerateResource.Cache
+E:\Programming\C#\Dima\II\Сравнение двух деревьев\task_5_17\task_5_17\obj\Debug\task_5_17.exe
+E:\Programming\C#\Dima\II\Сравнение двух деревьев\task_5_17\task_5_17\obj\Debug\task_5_17.pdb
+E:\Programming\C#\Dima\II\Сравнение двух деревьев\task_5_17\task_5_17\obj\Debug\task_5_17.csprojResolveAssemblyReference.cache
+E:\Programming\C#\Dima\II\_Сравнение двух деревьев_\task_5_17\task_5_17\bin\Debug\task_5_17.exe.config
+E:\Programming\C#\Dima\II\_Сравнение двух деревьев_\task_5_17\task_5_17\obj\Debug\task_5_17.exe
+E:\Programming\C#\Dima\II\_Сравнение двух деревьев_\task_5_17\task_5_17\obj\Debug\task_5_17.pdb
+E:\Programming\C#\Dima\II\_Сравнение двух деревьев_\task_5_17\task_5_17\bin\Debug\task_5_17.exe
+E:\Programming\C#\Dima\II\_Сравнение двух деревьев_\task_5_17\task_5_17\bin\Debug\task_5_17.pdb
+E:\Programming\C#\Dima\II\_Сравнение двух деревьев_\task_5_17\task_5_17\obj\Debug\task_5_17.csprojResolveAssemblyReference.cache
+E:\Programming\C#\Dima\II\_Сравнение двух деревьев_\task_5_17\task_5_17\obj\Debug\task_5_17.Form1.resources
+E:\Programming\C#\Dima\II\_Сравнение двух деревьев_\task_5_17\task_5_17\obj\Debug\task_5_17.Properties.Resources.resources
+E:\Programming\C#\Dima\II\_Сравнение двух деревьев_\task_5_17\task_5_17\obj\Debug\task_5_17.csproj.GenerateResource.Cache
+C:\Users\яблоко\Desktop\флешка\задачи\задачи 1 атта\_Сравнение двух деревьев_\task_5_17\task_5_17\bin\Debug\task_5_17.exe.config
+C:\Users\яблоко\Desktop\флешка\задачи\задачи 1 атта\_Сравнение двух деревьев_\task_5_17\task_5_17\obj\Debug\task_5_17.exe
+C:\Users\яблоко\Desktop\флешка\задачи\задачи 1 атта\_Сравнение двух деревьев_\task_5_17\task_5_17\obj\Debug\task_5_17.pdb
